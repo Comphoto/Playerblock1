@@ -1,0 +1,5 @@
+local detector = peripheral.find("playerDetector")
+
+if detector ==nil then error("playerDetector not found")) end
+
+function isPlayerInRange(int 5,"Comphoto")
